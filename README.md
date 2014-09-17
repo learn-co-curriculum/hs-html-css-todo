@@ -34,18 +34,18 @@ It's important to remember vendor prefixes here. Not all animations are supporte
 Chrome:
 ```CSS
 @-webkit-keyframes CUSTOM-NAME-FOR-ANIMATION{
-```
 }
 ```
+
 Firefox:
 ```CSS
 @-moz-keyframes CUSTOM-NAME-FOR-ANIMATION{
-```
 }
+```
+
 Opera:
 ```CSS
 @-o-keyframes CUSTOM-NAME-FOR-ANIMATION{
-
 }
 ```
 
