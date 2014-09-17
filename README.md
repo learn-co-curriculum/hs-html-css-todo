@@ -1,5 +1,5 @@
 ---
-tags: html, css, kids, todo
+tags: html, css, kids, todo, css animations
 languages: html, css
 type: to-do
 level: 2
