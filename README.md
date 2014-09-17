@@ -6,7 +6,7 @@ level: 2
 ---
 
 ##Getting Jiggy With It
-
+<img src="http://33.media.tumblr.com/467b1c2872fe0710dec2f092672bcd1a/tumblr_mscgqjiMVN1sat0smo1_400.gif">
 
 Let's make a box dance with CSS animations!!
 
