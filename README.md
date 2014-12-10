@@ -19,7 +19,7 @@ We're going to use `@keyframes` rule which takes a custom animation name as an a
 
 In `style.css`, it should look something like this
 
-```CSS
+```css
 @keyframes CUSTOM-NAME-FOR-ANIMATION{
   0% {}
   25%{}
@@ -32,19 +32,19 @@ In `style.css`, it should look something like this
 It's important to remember vendor prefixes here. Not all animations are supported by every browser, and in order to make the animations work for every browser, you'll have to declare which browser you're using.
 
 Chrome:
-```CSS
+```css
 @-webkit-keyframes CUSTOM-NAME-FOR-ANIMATION{
 }
 ```
 
 Firefox:
-```CSS
+```css
 @-moz-keyframes CUSTOM-NAME-FOR-ANIMATION{
 }
 ```
 
 Opera:
-```CSS
+```css
 @-o-keyframes CUSTOM-NAME-FOR-ANIMATION{
 }
 ```
@@ -64,7 +64,7 @@ You're going to want to change the width and height properties during your anima
 
 ###Calling The Animation
 Now we actually need to call the animation. You'll want to add to the already written CSS for the id redbox. By using something like this:
-```CSS
+```css
   -webkit-animation: NAME-YOUR-ANIMATION 5s infinite; /* Safari 4+ */
   -moz-animation:    NAME-YOUR-ANIMATION 5s infinite; /* Fx 5+ */
   -o-animation:      NAME-YOUR-ANIMATION 5s infinite; /* Opera 12+ */
