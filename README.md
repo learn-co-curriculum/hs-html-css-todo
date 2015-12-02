@@ -69,3 +69,5 @@ The `5s` is the duration of one single animation in seconds. The `infinite` tell
 
 The animations should start as soon as your page loads without clicking anything or hovering over anything.
 
+
+<a href='https://learn.co/lessons/hs-html-css-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
